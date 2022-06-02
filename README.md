@@ -17,7 +17,7 @@
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
   - [x] Metodologia Ágil 
-  <br> Utilizamos o Trello para dividir tarefas e git para o versinamento e controle de código onde cada um desenvolveu na sua branch e posteriormente efetuando o merge para a branch principal.
+  <br> Utilizamos o Trello para dividir tarefas e git para o versinamento e controle de código onde cada um desenvolveu na sua branch e ao final efetuamos o merge para a branch principal.
 
   - [x] HTML5
   - [x] CSS3
