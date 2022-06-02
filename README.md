@@ -2,7 +2,7 @@
 
 
 <h2 id="sobre">Sobre </h2>
-  <p>Projeto onde precisamos desenvolver o front-end para apresentar um novo produto lançado pela empresa "FrontEnders", onde poderíamos inventar o produto que quiséssemos, pensando em algo que seria legal para ajudar no dia a dia com programação ou estudos.
+  <p>Projeto onde precisamos desenvolver o front-end para apresentar um novo produto lançado pela empresa "FrontEnders", onde poderíamos criar o produto que quiséssemos, pensando em algo que seria legal para ajudar no dia a dia com programação ou estudos.
   Nosso projeto também precisaria estar de acordo com os seguintes requisitos:</p>
 
   - Possuir home, página de detalhes sobre o serviço, cadastro na lista de espera, contato, login e recuperação de senha;
@@ -15,6 +15,8 @@
 <br>
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
+
+Metodologia Ágil -  Usamos o Trello para dividir tarefas, e versinamento de código onde cada um desenvolveu na sua branch e posteriormente efetuando o merge para a branco principal.
 
   - [x] HTML5
   - [x] CSS3
