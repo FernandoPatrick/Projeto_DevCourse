@@ -1,6 +1,11 @@
 # Projeto final do módulo 2: Lançamento de produto - Dev Course 💻
 
 
+## Link do Projeto
+
+https://fernandopatrick.github.io/Projeto_DevCourse/
+
+
 <h2 id="sobre">Sobre </h2>
   <p>Projeto onde precisamos desenvolver o front-end para apresentar um novo produto lançado pela empresa "FrontEnders", onde poderíamos criar o produto que quiséssemos, pensando em algo que seria legal para ajudar no dia a dia com programação ou estudos.
   Nosso projeto também precisaria estar de acordo com os seguintes requisitos:</p>
@@ -56,9 +61,6 @@
 *Consulte a documentação do GitHub em* 
 [como criar e deletar branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
 
-## Link do Projeto
-
-https://fernandopatrick.github.io/Projeto_DevCourse/
 
 <h2 id="grupo">Autores 🤝</h2>
 
