@@ -1,7 +1,7 @@
 # Projeto final do módulo 2: Lançamento de produto - Dev Course 💻
 
 
-## Link do Projeto
+## Link do Projeto on-line
 
 https://fernandopatrick.github.io/Projeto_DevCourse/
 
