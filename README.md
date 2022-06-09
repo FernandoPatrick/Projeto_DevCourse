@@ -11,7 +11,7 @@ https://fernandopatrick.github.io/Projeto_DevCourse/
   Nosso projeto também precisaria estar de acordo com os seguintes requisitos:</p>
 
   - Possuir home, página de detalhes sobre o serviço, cadastro na lista de espera, contato, login e recuperação de senha;
-  - O framework CSS Boostrap deve ser utilizado na elaboração do projeto (versão 4 ou superior);
+  - O framework Boostrap deve ser utilizado na elaboração do projeto (versão 4 ou superior);
   - A API ViaCEP deve ser utilizada para obter dados referentes aos CEPs utilizados no cadastro;
   - Utilizar repositório público no github, com todos os integrantes do grupo como colaboradoradores e disponibilização de uma GithubPage com o projeto;
 
